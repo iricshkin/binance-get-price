@@ -1,0 +1,13 @@
+
+.idea/
+__pycache__/
+*.pyc
+creds.ini
+.venv
+venv/
+.env
+env/
+.vscode/
+.vscode
+vscode/
+*.log
